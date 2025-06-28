@@ -1,0 +1,8 @@
+referências atividade 3: 
+
+https://www.swi-prolog.org/pldoc/man?predicate=findall/3
+https://www.youtube.com/watch?v=mFtEDoFIaxE
+https://edirlei.com/aulas/clp/CLP_Aula_08_Prolog_2015.pdf
+https://wiki.c2.com/?QuickSortInHaskell
+materiais do professor Janderson Barbosa Aguiar
+Algoritmos - teoria e prática. Cormen et al
