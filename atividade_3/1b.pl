@@ -55,10 +55,12 @@ cursa(maria_clara, tebd).
 cursa(sinddy, tebd).
 cursa(vitor, tebd).
 cursa(werlys, tebd).
+
 disciplina_obrigatoria(pp).
 disciplina_obrigatoria(aps).
 disciplina_eletiva(tec).
 disciplina_eletiva(tebd).
+
 leciona(janderson, pp).
 leciona(scherer, aps).
 leciona(janderson, tec).

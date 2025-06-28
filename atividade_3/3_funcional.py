@@ -10,7 +10,7 @@ def quickSort_pares(lista):
         meio = [x for x in [pivo] if util.even(x)]
         maiores = [x for x in lista[1:] if x > pivo and util.even(x)]
 
-        return quickSort_pares(menores) + meio + quickSort_pares(maiores)
+        return  quickSort_pares(maiores) + meio + quickSort_pares(menores)
 
 def quickSort(lista):
     if lista == []:
@@ -23,7 +23,6 @@ def quickSort(lista):
         return quickSort(menores) + [pivo] + quickSort(maiores)
 
 lista1 = [9, 1, 8, 2, 5, 7, 3, 6, 4]
-lista2 = [3, 2, 7, 10, 23, 8, 1, 77, 8]
 
 print("Implementação do quickSort recursivo funcional em python")
 lista = lista1

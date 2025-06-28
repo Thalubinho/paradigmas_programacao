@@ -20,7 +20,6 @@ def particao(lista, pri, ult):
 
 
 lista1 = [9, 1, 8, 2, 5, 7, 3, 6, 4]
-lista2 = [3, 2, 7, 10, 23, 8, 1, 77, 8]
 
 print("Implementação do quickSort recursivo imperativo em python")
 lista = lista1

@@ -1,5 +1,5 @@
 main :: IO ()
-main = print (situacaoAluno 0.74 10 10)
+main = print (situacaoAluno 0.75 3 4)
 
 situacaoAluno :: Double -> Double -> Double -> String
 situacaoAluno freq u1 u2
